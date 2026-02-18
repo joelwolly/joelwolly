@@ -1,64 +1,86 @@
-<img width=100% bottom=50px src="https://github.com/joelwolly/joelwolly1/assets/62953832/66fb2271-5783-45e1-8ea0-14849fb090c6"/>
-<br>
-<br>
-<br>
+<h1 align="center"> Joel Wollace Bezerra Santos</h1>
+<h3 align="center">Desenvolvedor Java | Spring Boot | Microsserviços | Full Stack</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1019&background=1914FF00&center=true&random=true&width=700&height=80&lines=Hey!+I+am+joel+wollace...)](https://git.io/typing-svg)
+<p align="center">
+Brasília, DF – Brasil <br>
+📧 cjoelsantoscontato@gmail.com • 
+<a href="https://www.linkedin.com/in/joel-wollace" target="_blank">LinkedIn</a> • 
+<a href="https://github.com/joelwolly" target="_blank">GitHub</a> • 
+<a href="https://joel-wollace.vercel.app/" target="_blank">Portfólio</a>
+</p>
 
-<br>
-<br>
+---
 
-<div align="center">
+## 👨‍💻 Sobre Mim
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joelwolly&theme=transparent)](https://git.io/streak-stats)
+Sou Desenvolvedor Full Stack com foco em **Java e Spring Boot**, apaixonado por arquitetura de software, APIs REST e desenvolvimento de soluções escaláveis.
 
-<div>
+Tenho experiência prática em desenvolvimento backend, integração frontend-backend e conteinerização de aplicações com Docker e Kubernetes. Busco constantemente evoluir tecnicamente e gerar impacto real através da tecnologia.
 
-<div align="center"> 
+Atualmente focado em crescer como **Desenvolvedor Backend Java**.
 
-<a href="cjoelsantos90@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/joelwolly/joelwolly1/assets/62953832/d5163d67-530a-49e8-93a9-b346e26a69d9">
-</a>
-</a>
-
-
-<a  href="www.linkedin.com/in/joel-wollace" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
-
-</a>
+---
 
 
+---
 
-<div align="center" >
+## 🚀 Projetos
 
-![Ashutosh's github activity graph](https://github.com/joelwolly/joelwolly1/assets/62953832/c5ea8be8-64c9-47bc-b551-b446caf3d0f0)
+### 🔹 MetaLyse – Sistema de Análise de Metadados  
+Desenvolvedor Full Stack | Remoto | 2024
 
-<div>
+- Liderança no desenvolvimento do sistema.
+- Implementação completa do frontend com **Angular**.
+- Integração com backend em **Python** via APIs REST.
+- Modelagem de estruturas de dados complexas com foco em desempenho e usabilidade.
+- Aplicação de conceitos de **POO e microsserviços**.
 
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/joelwolly/joelwolly1/assets/62953832/7cd3ac9d-aefc-4f9f-bc2d-7116ebe386d8">
+---
 
-<img align="left" height="80" width="80" src="https://github.com/joelwolly/joelwolly1/assets/62953832/19c5549f-79e7-4c1b-b9d3-ae7265359922">
+## 🎓 Formação Acadêmica
 
-<img align="left"  height="80" width="80" src="https://github.com/joelwolly/joelwolly1/assets/62953832/527fb2a8-edb0-4035-85f2-f9f0d8509c11">
+### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+Centro Universitário Gama  
+2023 – 2025
 
-</div>
+- Desenvolvimento de aplicações web com foco em POO.
+- Modelagem de bancos de dados relacionais.
+- Aplicação de arquitetura REST e boas práticas de desenvolvimento.
 
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
+---
 
-<h2 align="left"> Studying in this moment: </h2>
+## 🛠️ Stack Tecnológica
 
-<img align="left" height="80" width="80" src="https://github.com/joelwolly/joelwolly1/assets/62953832/19c5549f-79e7-4c1b-b9d3-ae7265359922">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,python,angular,react,typescript,html,css,docker,kubernetes,mysql,postgres,git" />
+</p>
 
-<img align="left"  height="80" width="80" src="https://github.com/joelwolly/joelwolly1/assets/62953832/527fb2a8-edb0-4035-85f2-f9f0d8509c11">
+---
 
-</div>
+## 📊 Estatísticas GitHub
 
-###
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joelwolly&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelwolly&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Arquitetura de Microsserviços
+- Clean Architecture
+- Performance e Escalabilidade em aplicações Java
+- Conceitos de CI/CD e Cloud Computing
+
+---
+
+## 🌎 Idiomas
+
+- Inglês – Intermediário
+
+---
+
+<p align="center">
+⭐ Sempre evoluindo tecnicamente e buscando construir soluções que gerem impacto real.
+</p>
