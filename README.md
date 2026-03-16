@@ -21,9 +21,6 @@ Atualmente focado em crescer como **Desenvolvedor Backend Java**.
 
 ---
 
-
----
-
 ## 🎓 Formação Acadêmica
 
 ### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
