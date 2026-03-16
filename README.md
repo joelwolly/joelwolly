@@ -24,19 +24,6 @@ Atualmente focado em crescer como **Desenvolvedor Backend Java**.
 
 ---
 
-## 🚀 Projetos
-
-### 🔹 MetaLyse – Sistema de Análise de Metadados  
-Desenvolvedor Full Stack | Remoto | 2024
-
-- Liderança no desenvolvimento do sistema.
-- Implementação completa do frontend com **Angular**.
-- Integração com backend em **Python** via APIs REST.
-- Modelagem de estruturas de dados complexas com foco em desempenho e usabilidade.
-- Aplicação de conceitos de **POO e microsserviços**.
-
----
-
 ## 🎓 Formação Acadêmica
 
 ### 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
